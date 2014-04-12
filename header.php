@@ -28,8 +28,8 @@
 	<link href='http://fonts.googleapis.com/css?family=Lato:300,400|Montserrat' rel='stylesheet' type='text/css'>
 
 	<!-- Stylesheets -->
-	<link rel="stylesheet" type="text/css" href="css/framework.css">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo("template_url");?>/css/framework.css">
+	<link rel="stylesheet" type="text/css" href="<?php bloginfo("template_url");?>/css/style.css">
 
 </head>
 
